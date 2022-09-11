@@ -1,0 +1,13 @@
+C:\Users\Lemon\source\repos\Potions\Potions\bin\Debug\netcoreapp3.1\Potions.exe
+C:\Users\Lemon\source\repos\Potions\Potions\bin\Debug\netcoreapp3.1\Potions.deps.json
+C:\Users\Lemon\source\repos\Potions\Potions\bin\Debug\netcoreapp3.1\Potions.runtimeconfig.json
+C:\Users\Lemon\source\repos\Potions\Potions\bin\Debug\netcoreapp3.1\Potions.runtimeconfig.dev.json
+C:\Users\Lemon\source\repos\Potions\Potions\bin\Debug\netcoreapp3.1\Potions.dll
+C:\Users\Lemon\source\repos\Potions\Potions\bin\Debug\netcoreapp3.1\Potions.pdb
+C:\Users\Lemon\source\repos\Potions\Potions\obj\Debug\netcoreapp3.1\Potions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemon\source\repos\Potions\Potions\obj\Debug\netcoreapp3.1\Potions.AssemblyInfoInputs.cache
+C:\Users\Lemon\source\repos\Potions\Potions\obj\Debug\netcoreapp3.1\Potions.AssemblyInfo.cs
+C:\Users\Lemon\source\repos\Potions\Potions\obj\Debug\netcoreapp3.1\Potions.csproj.CoreCompileInputs.cache
+C:\Users\Lemon\source\repos\Potions\Potions\obj\Debug\netcoreapp3.1\Potions.dll
+C:\Users\Lemon\source\repos\Potions\Potions\obj\Debug\netcoreapp3.1\Potions.pdb
+C:\Users\Lemon\source\repos\Potions\Potions\obj\Debug\netcoreapp3.1\Potions.genruntimeconfig.cache
